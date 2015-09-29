@@ -5,7 +5,7 @@ Projeto colaborativo para a construção de uma cartilha para informação, empo
 
 **Macro tópicos**
 
-* [LICENSE](Licença)
+* [Licença](LICENSE)
 * Introdução
 * Sexo biológico e intersexualidade
 * Orientação sexual
