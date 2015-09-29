@@ -5,12 +5,12 @@ Projeto colaborativo para a construção de uma cartilha para informação, empo
 
 **Macro tópicos**
 
-*Licença
-*Introdução
-*Sexo biológico e intersexualidade
-*Orientação sexual
-..*Definições e escala de kinsey
-*Gênero e idêntidade de gênero
-*Abraçando a diversidade no ambiente de trabalho
-*Código de conduta para eventos
-*Bibliografia
+* Licença
+* Introdução
+* Sexo biológico e intersexualidade
+* Orientação sexual
+..* Definições e escala de kinsey
+* Gênero e idêntidade de gênero
+* Abraçando a diversidade no ambiente de trabalho
+* Código de conduta para eventos
+* Bibliografia
