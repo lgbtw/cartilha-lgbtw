@@ -14,3 +14,6 @@ Projeto colaborativo para a construção de uma cartilha para informação, empo
 * Abraçando a diversidade no ambiente de trabalho
 * Código de conduta para eventos
 * Bibliografia
+
+Contribuidores:
+- Johann Gomes 
