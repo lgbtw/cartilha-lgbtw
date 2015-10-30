@@ -8,12 +8,11 @@ Projeto colaborativo para a construção de uma cartilha para informação, empo
 * [Licença](LICENSE)
 * [Introdução](introducao.md)
 * [Intersexualidade](intersexualidade.md)
-* Orientação sexual
-  * Definições e escala de kinsey
-* Gênero e idêntidade de gênero
-* Abraçando a diversidade no ambiente de trabalho
-* Código de conduta para eventos
-* Bibliografia
+* [Orientação Sexual](orientacao.md)
+* [Gênero e idêntidade de gênero](genero.md)
+* [Abraçando a diversidade no ambiente de trabalho](trabalho.md)
+* [Código de conduta para eventos](eventos.md)
+* [Bibliografia](bibliografia.md)
 
 Contribuidores:
 - Johann Gomes 
