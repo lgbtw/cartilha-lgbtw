@@ -6,8 +6,8 @@ Projeto colaborativo para a construção de uma cartilha para informação, empo
 **Macro tópicos**
 
 * [Licença](LICENSE)
-* [Introdução](INTRODUCAO)
-* Sexo biológico e intersexualidade
+* [Introdução](introducao.md)
+* [Intersexualidade](intersexualidade.md)
 * Orientação sexual
   * Definições e escala de kinsey
 * Gênero e idêntidade de gênero
