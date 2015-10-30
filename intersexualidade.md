@@ -8,5 +8,5 @@ Estima-se que 1 em cada 2000 crianças nasce interssexual.
 
 Fontes:
 
-Wikipédia https://pt.wikipedia.org/wiki/Intersexualidade
-Documentário XXXY (2000) https://vimeo.com/66443054
+* Wikipédia https://pt.wikipedia.org/wiki/Intersexualidade
+* Documentário XXXY (2000) https://vimeo.com/66443054
