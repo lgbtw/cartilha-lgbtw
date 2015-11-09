@@ -15,4 +15,4 @@ Projeto colaborativo para a construção de uma cartilha para informação, empo
 * [Bibliografia](bibliografia.md)
 
 Contribuidores:
-- Johann Gomes 
+- Johann Gomes & Felipe Zampa 
